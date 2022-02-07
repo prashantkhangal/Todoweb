@@ -1,0 +1,145 @@
+.trip{
+    position: relative;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    top: 50px;
+}
+.hr{
+    position: relative;
+    margin-left: 350px;
+    margin-right: 810px;
+    top: -7px;
+}
+.hr1{
+    position: relative;
+    margin-left: 820px;
+    margin-right: 350px;
+    top: -15px;
+}
+.paris{
+    position: relative;
+    top: 110px;
+    left: 500px;
+    border: 1px solid #f10505;
+    width: 350px;
+    height: 375px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(224, 216, 216);
+}
+.paris1{
+    color: #f10505;
+    font-family: sans-serif;
+    margin-left: 35px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+    
+.paris2{
+    position: relative;
+    color: red;
+    margin-top: 25px;
+    margin-left: 35px;
+    font-family: sans-serif;
+    font: bold;
+}
+.hr2{
+    margin-left: 130px;
+}
+.back1{
+    position: relative;
+    left: 700px;
+    top: -375px;
+    font-size: 24px;
+}
+.back{
+    position: relative;
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    border-radius: 75%;
+    left:650px ;
+    top:-350px ;
+    color: white;
+    font-size: larger;
+}
+.plus{
+    display: inline-block;
+    position: relative;
+    color: white;
+    background-color: red;
+    height: 25px;
+    width: 25px;
+    border-radius: 75%;
+    left:800px ;
+    font-size: large;
+}
+.parent1{
+    filter: blur(5px);
+}
+.parent2{
+    position: relative;
+    border: 1px solid red;
+    width: 350px;
+    height: 150px;
+    border-radius: 10px;
+     top: -350px;
+     left: 500px;
+     box-shadow: 5px 5px rgb(224, 216, 216);
+
+}
+.new{
+    position: relative;
+    font-family: sans-serif;
+    color: red;
+    top: 35px;
+    left: 120px;
+}
+.text{
+    position: relative;
+    top: 55px;
+    left: 85px;
+    border-radius: 3px;
+    border-color: red;
+}
+.new3{
+    position: relative;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    padding: 5px;
+    left: 150px;
+    top:70px ;
+}
+.footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color:whitesmoke;
+    color: black;
+    text-align: center;
+}
+.icon1{
+    position: relative;
+    top: 40px;
+    left: -40px;
+}
+.icon2{
+    position: relative;
+    top: -38px;
+    left: 55px;
+}
+.icon3{
+    position: relative;
+    top: -40px;
+    right:80px;
+}
+body{
+    border: 1px solid black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
