@@ -182,6 +182,7 @@
 }
 body{
    border: 1px solid black;
+    border-width:100%;
 }
 a{
     color: black;
